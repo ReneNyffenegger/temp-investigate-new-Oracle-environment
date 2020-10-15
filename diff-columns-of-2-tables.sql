@@ -13,3 +13,7 @@ where
    b.column_name is null
 order by
    a.column_id;
+
+--
+-- Compare with http://www.adp-gmbh.ch/ora/admin/scripts/comptables.html
+--
